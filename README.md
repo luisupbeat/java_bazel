@@ -8,6 +8,7 @@ Bazel es un sistema de construcción de código abierto desarrollado por Google 
 
 - **Java JDK 8 o superior** instalado
 - **Bazel** instalado (versión 4.0 o superior recomendada)
+    - Documentación oficial: https://bazel.build/install/windows?hl=es-419     
 - Editor de texto o IDE de tu preferencia
 
 ### Verificar Instalaciones
